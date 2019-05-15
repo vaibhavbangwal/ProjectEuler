@@ -38,6 +38,6 @@ public class Solution {
         for(int a0 = 0; a0 < t; a0++){
             int n = in.nextInt();
            System.out.println(sumArray[n]);
-}
+} 
     }
 }
